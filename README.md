@@ -43,7 +43,7 @@ Tutor Assistant — платформа для учителя, который в�
 
 <p>
   <a href="https://github.com/talaev-sergey/tutor-assistant-releases/releases/latest/download/tutor-assistent-installer-windows-x86_64.exe">
-    <img src="https://img.shields.io/github/v/release/talaev-sergey/tutor-assistant-releases?style=for-the-badge&label=Скачать%20tutor-installer.exe&color=2ea44f&logo=github" alt="Скачать tutor-installer.exe">
+    <img src="https://img.shields.io/github/v/release/talaev-sergey/tutor-assistant-releases?style=for-the-badge&label=%D0%A1%D0%BA%D0%B0%D1%87%D0%B0%D1%82%D1%8C%20tutor-installer.exe&color=2ea44f&logo=github" alt="Скачать tutor-installer.exe">
   </a>
 </p>
 
